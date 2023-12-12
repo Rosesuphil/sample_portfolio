@@ -1,0 +1,5 @@
+name:biriyani
+ingredients
+rice 1kg
+chicken 1kg
+ginger 250g
